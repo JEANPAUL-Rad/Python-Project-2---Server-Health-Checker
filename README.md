@@ -53,8 +53,4 @@ Supports:
 1. Environment variable
 2. JSON configuration file
 
-### Email Alerts
 
-Optional SMTP alert support for failed services.
-
----
